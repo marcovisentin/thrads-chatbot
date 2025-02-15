@@ -1,4 +1,4 @@
-# React ChatBot with Mistral Integration 
+# Thrads Ad-Enabled Chatbot with Mistral Integration
 
 Thrads is an ad platform designed to help chatbot developers monetize their AI-driven products while enabling advertisers to engage users with meaningful, context-aware ads. By integrating our API, developers can effortlessly add ads to their chatbots without disrupting the user experience. Advertisers can run hyper-targeted campaigns based on conversational context, making the ads feel natural and relevant.
 
