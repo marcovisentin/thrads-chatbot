@@ -4,6 +4,8 @@ Thrads is an ad platform designed to help chatbot developers monetize their AI-d
 
 This repository is a demo where a Mistral Wrapper chatbot calls the Thrads API to deliver hyper-targeted ads during conversations. It also allows users to configure their preferred ad settings for a more tailored experience.
 
+![Example of conversation with ad](thrads-chatbot-image-example)
+
 ## Prerequisites
 
 - Node.js (v14 or higher)
