@@ -30,4 +30,4 @@ This repository is a demo where a Mistral Wrapper chatbot calls the Thrads API t
   ```bash
    npm start
    ```
-If you want to obtain an API key, email us at contact@thrads.us and visit our website at thrads.us. We will soon launch our platform where developers can obtain their API keys, monitor monetization, and advertisers can set up their campaigns.
+If you want to obtain an API key, email us at contact@thrads.us and visit our website at https://thrads.us. We will soon launch our platform where developers can obtain their API keys, monitor monetization, and advertisers can set up their campaigns.
